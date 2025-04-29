@@ -13,18 +13,22 @@ case $number in
     1)
         echo "Opening the code for class 1..."
         code "Interview Game"
+		sleep 2
+		code -r "Interview Game/test.py"
         ;;
     2)
         echo "Opening the code for class 2..."
         code "Turn Based Game"
+		sleep 2
+		code -r "Turn Based Game/test.py"
         ;;
     3)
         echo "Opening the code for class 3..."
         code "Trading Game"
+		sleep 2
+		code -r "Trading Game/test.py"
         ;;
 esac
-sleep 2
-code -r "test.py"
 
 # Opens class website
 echo "Opening website..."
