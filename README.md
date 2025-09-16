@@ -12,15 +12,15 @@ Class 1:
 
 
 Class 2:
-  1. [Types](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%201/1.%20Types.md)
-  2. [Functions](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%201/2.%20Functions.md)
-  3. [Loops](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%201/3.%20Loops.md)
+  1. [Types](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%202/1.%20Types.md)
+  2. [Functions](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%202/2.%20Functions.md)
+  3. [Loops](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%202/3.%20Loops.md)
 
 
 Class 3:
-  1. [Classes](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%201/1.%20Classes.md)
-  2. [OOP](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%201/2.%20User%20OOP.md)
-  3. [Text Files](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%201/3.%20Text%20Files.md)
+  1. [Classes](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%203/1.%20Classes.md)
+  2. [OOP](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%203/2.%20OOP.md)
+  3. [Text Files](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%203/3.%20Text%20Files.md)
 
 
 
@@ -49,4 +49,5 @@ Class 3:
 
 ## Other resources
 https://www.w3schools.com/python/
+
 https://www.codecademy.com/learn/learn-python-3
