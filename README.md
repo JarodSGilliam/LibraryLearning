@@ -1,3 +1,10 @@
+# ==CLASS POSTPONED TO 9/27/2025==
+# ==CLASS POSTPONED TO 9/27/2025==
+# ==CLASS POSTPONED TO 9/27/2025==
+
+
+
+
 ![Title Bar](https://github.com/user-attachments/assets/f8d6e47b-dd6c-4339-a150-19eb535aceb4)
 Learn the basics of Python through Game Design! Over the course of the three classes, you will be given the tools needed to build a simple visual novel detective game and the fundamentals needed to make more complex games.
 
