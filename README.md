@@ -8,13 +8,13 @@ Class 1:
   2. [User Input](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%201/2.%20User%20Input.md)
   3. [Variables](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%201/3.%20Variables.md)
   4. [Conditionals](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%201/4.%20Conditionals.md)
-  5. [Importing](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%201/5.%20Importing.md)
 
 
 Class 2:
-  1. [Types](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%202/1.%20Types.md)
-  2. [Functions](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%202/2.%20Functions.md)
-  3. [Loops](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%202/3.%20Loops.md)
+  1. [Importing](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%201/1.%20Importing.md)
+  2. [Types](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%202/2.%20Types.md)
+  3. [Functions](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%202/3.%20Functions.md)
+  4. [Loops](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%202/4.%20Loops.md)
 
 
 Class 3:
