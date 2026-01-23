@@ -11,7 +11,7 @@ Class 1:
 
 
 Class 2:
-  1. [Importing](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%201/1.%20Importing.md)
+  1. [Importing](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%202/1.%20Importing.md)
   2. [Types](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%202/2.%20Types.md)
   3. [Functions](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%202/3.%20Functions.md)
   4. [Loops](https://github.com/JarodSGilliam/LibraryLearning/blob/main/Part%202/4.%20Loops.md)
